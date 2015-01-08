@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="navigation_drawer_items">
+        <item>Все задачи</item>
+        <item>Сегодня</item>
+        <item>Завтра</item>
+    </string-array>
+
+    <string name="action_mode">Action Mode</string>
+    <string name="item1">Редактировать</string>
+    <string name="item2">Удалить</string>
+    <string name="menu_item_add">Добавить</string>
+    <string name="menu_item_accept">Готово</string>
+    <string name="app_name">ToDoList</string>
+    <string name="action_settings">Настройки</string>
+    <string name="task_title">Задача</string>
+    <string name="date_title">Дата</string>
+    <string name="task_description">Описание задачи</string>
+    <string name="title_activity_add_task">AddTaskActivity</string>
+    <string name="menu_item_edit">Изменить</string>
+    <string name="menu_item_delete">Удалить</string>
+    <string name="title_activity_task_info">TaskInfoActivity</string>
+
+</resources>
